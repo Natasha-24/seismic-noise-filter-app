@@ -2,6 +2,18 @@
 
 A web-based application for accessing, processing, and filtering seismic data from NASA's IRIS dataset with specialized support for Martian seismic data. This system provides an intuitive Streamlit interface to retrieve and clean seismic data, exporting filtered results in CSV format.
 
+## 👩‍💻 Contributor Details
+
+This project was developed as a **team project**.
+
+**My Contributions:**
+- Assisted in collecting data and seismic noise analysis
+- Worked on application development and testing
+- Contributed to documentation and evaluation
+
+Original Repository:
+https://github.com/JohnJomi/seismic-noise-app
+
 ## Features
 
 - **Martian Data Specialization**: Optimized for processing Mars seismic data from InSight mission
