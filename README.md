@@ -2,7 +2,7 @@
 
 A web-based application for accessing, processing, and filtering seismic data from NASA's IRIS dataset with specialized support for Martian seismic data. This system provides an intuitive Streamlit interface to retrieve and clean seismic data, exporting filtered results in CSV format.
 
-## 👩‍💻 Contributor Details
+## Contributor Details
 
 This project was developed as a **team project**.
 
