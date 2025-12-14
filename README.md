@@ -118,17 +118,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Streamlit team for the web framework
 - Contributors and testers of this system
 
-## Support
-For support and questions:
-- Email: john.jomi@btech.christuniversity.in or johnjomi1234@gmail.com
-- Issue Tracker: https://github.com/JohnJomi/seismic-noise-app/issues
-- Documentation: tutorial.html
-
-## Version History
-- v1.0.0 (Current): Initial release with Mars data specialization
-- v0.5.0: Beta release with Streamlit integration
-- v0.1.0: Proof of concept with basic filtering
 
 Note: This system is specifically optimized for Martian seismic data analysis from the InSight mission. Always verify data quality and processing results for research applications.
-
-Unlocking the secrets of Martian seismology
